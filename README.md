@@ -3,7 +3,7 @@
 B.Sc. Software and Systems Engineering Student at LUT University<br/>
 Voc. Degree in Music Theory at London School of Music, UWL<br/>
 🌱 I’m currently learning about creating mobile & desktop apps and discovering new things every day :33<br/>
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selnckli/) | [Email](selin.cekli@student.lut.fi).<br/>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selnckli/) 
 
 
 ## 🌐 Socials:
