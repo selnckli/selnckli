@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Software and Systems Engineering student at LUT University (3rd year), currently exploring opportunities in software R&D, AI, and tech for social good. I enjoy working on practical, impactful projects that blend research with hands-on development.
+I'm a Software and Systems Engineering student at LUT University (3rd year), currently exploring opportunities in software R&D. I am exploring various fields within software development, trying to find my specialisation by trying as many different technologies as I can. I enjoy working on practical projects that blend research with hands-on development :33 
 
 - 🌱 I’m currently learning:
   - Hugging Face Transformers 🤖
