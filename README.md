@@ -26,27 +26,27 @@ Here are some tools and technologies I’ve worked with:
 - Python, Java, JavaScript, C, C++
 - *learning*: TypeScript
 
-### 🗄 Databases & Data:
-- SQL (MySQL, PostgreSQL), Excel, R
-- *learning*: MongoDB
+### 🗄 Databases:
+- Excel, R
+- *learning*: SQL & MongoDB
 
 ### 🌐 Web Development:
 - HTML, CSS, Node.js
-- *learning*: React, Flask
+- *learning*: React
 
 ### 🤖 Machine Learning / NLP:
 - Hugging Face Transformers, Scikit-learn
 - *learning*: LangChain, OpenAI API
 
 ### 🧪 Tools & Platforms:
-- Git, Linux, VS Code, AWS, Jupyter, RS485 Serial Protocol
+- Git, Linux, VS Code, Jupyter
 
 ## 📁 Projects
 
 - **LegalLens AI** – NLP-based legal document navigator using Hugging Face models.
 - **Teknoware Hackathon** – Simulated hardware sensor data and built Python-based communication UI.
 - **UNESCO Industry 4.0 Pitch** – Explored sustainability impacts of Industry 4.0 technologies.
-- *(More on my [LinkedIn](https://www.linkedin.com/in/selnckli) or [CV](https://github.com/selnckli/CV_Selin_Cekli.pdf))*
+- *(More on my [LinkedIn](https://www.linkedin.com/in/selnckli) or [CV](https://drive.google.com/file/d/1olLz6286tn9GPBf-AFqjUQW_zDRqVxl1/view?usp=sharing))*
 
 ## 📫 How to Reach Me
 
@@ -57,6 +57,7 @@ Here are some tools and technologies I’ve worked with:
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=selnckli&theme=merko&hide_border=true)<br/>
